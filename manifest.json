@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Enables world exporting on mobile.",
+        "name": "Mobile Export",
+        "uuid": "6939bce2-4b7c-4272-828d-221b7bfa3716",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "bananas",
+            "type": "resources",
+            "uuid": "65c774f8-c9fd-4b89-a771-433a9505cfee",
+            "version": [0, 0, 2]
+        }
+    ]
+}
